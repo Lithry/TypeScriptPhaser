@@ -1,0 +1,6 @@
+C:\Users\51\Desktop\TypeScriptPhaser\TypeScriptPhaser\obj\Debug\TypeScriptPhaser.csprojResolveAssemblyReference.cache
+C:\Users\51\Desktop\TypeScriptPhaser\TypeScriptPhaser\bin\TypeScriptPhaser.dll.config
+C:\Users\51\Desktop\TypeScriptPhaser\TypeScriptPhaser\bin\TypeScriptPhaser.dll
+C:\Users\51\Desktop\TypeScriptPhaser\TypeScriptPhaser\bin\TypeScriptPhaser.pdb
+C:\Users\51\Desktop\TypeScriptPhaser\TypeScriptPhaser\obj\Debug\TypeScriptPhaser.dll
+C:\Users\51\Desktop\TypeScriptPhaser\TypeScriptPhaser\obj\Debug\TypeScriptPhaser.pdb
