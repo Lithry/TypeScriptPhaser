@@ -1,4 +1,6 @@
-﻿module Game {
+﻿// https://www.youtube.com/watch?v=T8a8-SO6vP0
+
+module Game {
     export class TypeScriptPhaser {
         game: Phaser.Game;
 
@@ -9,6 +11,10 @@
         }
 
         preload() {
+
+		// Graphics
+		//this.game.load.image("player", "/Graphics/White.png");
+		//
 
         }
 

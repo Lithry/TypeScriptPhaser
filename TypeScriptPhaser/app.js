@@ -1,3 +1,4 @@
+// https://www.youtube.com/watch?v=T8a8-SO6vP0
 var Game;
 (function (Game) {
     var TypeScriptPhaser = (function () {
@@ -7,6 +8,9 @@ var Game;
             });
         }
         TypeScriptPhaser.prototype.preload = function () {
+            // Graphics
+            //this.game.load.image("player", "/Graphics/White.png");
+            //
         };
         TypeScriptPhaser.prototype.create = function () {
         };

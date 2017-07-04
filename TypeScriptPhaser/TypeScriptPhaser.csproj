@@ -23,6 +23,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app.css" />
+    <Content Include="Graphics\black.png" />
+    <Content Include="Graphics\Blue.png" />
+    <Content Include="Graphics\Red.png" />
+    <Content Include="Graphics\White.png" />
     <Content Include="index.html" />
     <Content Include="phaser.js" />
     <Content Include="web.config" />
@@ -43,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="GameObjects\" />
-    <Folder Include="Graphics\" />
     <Folder Include="States\" />
   </ItemGroup>
   <PropertyGroup>
