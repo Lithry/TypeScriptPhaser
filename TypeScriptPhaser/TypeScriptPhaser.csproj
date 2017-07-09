@@ -23,10 +23,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app.css" />
-    <Content Include="Graphics\black.png" />
-    <Content Include="Graphics\Blue.png" />
-    <Content Include="Graphics\Red.png" />
-    <Content Include="Graphics\White.png" />
+    <Content Include="Assets\Background.jpg" />
+    <Content Include="Assets\baddie.png" />
+    <Content Include="Assets\diamond.png" />
+    <Content Include="Assets\dude.png" />
+    <Content Include="Assets\firstaid.png" />
+    <Content Include="Assets\platform.png" />
+    <Content Include="Assets\sky.png" />
+    <Content Include="Assets\star.png" />
     <Content Include="index.html" />
     <Content Include="phaser.js" />
     <Content Include="web.config" />
@@ -45,10 +49,7 @@
       <DependentUpon>web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="GameObjects\" />
-    <Folder Include="States\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">12.0</VisualStudioVersion>
   </PropertyGroup>
